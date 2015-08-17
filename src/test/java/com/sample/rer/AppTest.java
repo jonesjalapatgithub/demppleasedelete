@@ -30,6 +30,7 @@ public class AppTest
 
     /**
      * Rigourous Test :-)
+     * commit to test user commits
      */
     public void testApp()
     {
